@@ -24,7 +24,7 @@
     "random-uuid-v4": "^0.0.6",
     "pouchdb-validation": "^1.1.0",
     "extend": "^3.0.0",
-    "equals": "^1.0.1",
+    "equals": "^1.0.5",
     "pouchdb-plugin-error": "^1.0.0",
     "pouchdb-system-db": "^1.0.0"
   },
