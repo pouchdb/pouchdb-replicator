@@ -26,7 +26,7 @@
     "extend": "^3.0.0",
     "equals": "^1.0.1",
     "pouchdb-plugin-error": "^1.0.0",
-    "pouchdb-system-db": "^1.0.0"
+    "pouchdb-system-db": "^1.0.4"
   },
   "devDependencies": {
     "pouchdb-plugin-helper": "^3.0.0"
