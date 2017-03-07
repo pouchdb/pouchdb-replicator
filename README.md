@@ -1,6 +1,8 @@
 pouchdb-replicator
 ==================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/pouchdb-replicator.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/pouchdb/pouchdb-replicator.svg?branch=master)](https://travis-ci.org/pouchdb/pouchdb-replicator)
 [![Dependency Status](https://david-dm.org/pouchdb/pouchdb-replicator.svg)](https://david-dm.org/pouchdb/pouchdb-replicator)
 [![devDependency Status](https://david-dm.org/pouchdb/pouchdb-replicator/dev-status.svg)](https://david-dm.org/pouchdb/pouchdb-replicator#info=devDependencies)
